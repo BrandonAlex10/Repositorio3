@@ -10,5 +10,7 @@ namespace AplicacionGIT.Models
 
         public double Sueldo { get; set; }
 
+        public string Nombre { get; set; }
+
     }
 }
