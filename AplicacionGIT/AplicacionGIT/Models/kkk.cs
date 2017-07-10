@@ -9,5 +9,7 @@ namespace AplicacionGIT.Models
     {
         public int numero { get; set; }
 
+        public int nuemor2 { get; set; }
+
     }
 }
