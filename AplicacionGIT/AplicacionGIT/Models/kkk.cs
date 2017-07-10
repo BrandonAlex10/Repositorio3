@@ -11,7 +11,7 @@ namespace AplicacionGIT.Models
 
         public int nuemor2 { get; set; }
 
-        public int nuemor2 { get; set; }
+        public int numero3 { get; set; }
 
 
 
